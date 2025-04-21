@@ -1,0 +1,17 @@
+<svg viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect x="4" y="4" width="56" height="56" rx="8" fill="#4285f4" />
+  
+  <!-- Photo frame border -->
+  <rect x="12" y="12" width="40" height="40" rx="4" fill="#ffffff" />
+  
+  <!-- Inner photo area -->
+  <rect x="16" y="16" width="32" height="32" rx="2" fill="#e0e0e0" />
+  
+  <!-- Simple face silhouette -->
+  <circle cx="32" cy="26" r="8" fill="#757575" />
+  <path d="M20 42 C20 34 44 34 44 42" fill="#757575" />
+  
+  <!-- Camera flash indicator -->
+  <circle cx="48" cy="16" r="3" fill="#ffeb3b" />
+</svg>
